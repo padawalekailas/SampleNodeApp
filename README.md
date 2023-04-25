@@ -1,2 +1,0 @@
-# SampleNodeApp
-SampleNodeApp Git Repository
